@@ -1,5 +1,7 @@
 <!--- banner --->
-<img src="./banner.png" alt="Hello world">
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Shajidur Rahman Jisan Banner"/>
+</p>
 
 <br/>
 
@@ -68,18 +70,30 @@
 <br/>
 
 <!--- statistics --->
-## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SR-JISAN&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-JISAN&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## 📈 GitHub Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SR-JISAN/contribution-snake/output/grid.svg" alt="Snake Animation" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SR-JISAN&theme=tokyo-night&hide_border=true"/>
+
 </p>
 
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SR-JISAN&show_icons=true&theme=swift&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-JISAN&layout=compact&theme=swift&hide_border=true" />
+
+<img src="https://raw.githubusercontent.com/SR-JISAN/SR-JISAN/output/github-contribution-grid-snake.svg"/>
+
 </p>
 
 ---
@@ -87,8 +101,17 @@
 ## 🔥 GitHub Streak & Repository Stats
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=SR-JISAN&theme=swift&hide_border=true" />
-  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=SR-JISAN&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com?user=SR-JISAN&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=SR-JISAN&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
 </p>
 
 <br/>
