@@ -6,7 +6,8 @@
 <!--- title --->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Shajidur Rahman Jisan</h1></summary>
+    <summary><h1 style="display: inline-block">Hi 👋, I'm
+      </br> Shajidur Rahman Jisan</h1></summary>
     <!--- typo --->
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&pause=1000&color=FD4D02&width=435&lines=Full-Stack+Software+Developer+;Transforming+ideas+into;Scalable+digital+products." alt="Typing SVG" /></a>
   </ul>
