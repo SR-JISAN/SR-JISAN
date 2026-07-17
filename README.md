@@ -70,17 +70,29 @@
 <!--- statistics --->
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS & ANALYSIS:</b>
 
-### GitHub Contributions:
-![Snake Grid](https://github.com/SR-JISAN/contribution-snake/blob/output/grid.svg)
+## 📈 GitHub Contributions
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SR-JISAN/contribution-snake/output/grid.svg" alt="Snake Animation" />
+</p>
 
-### GitHub Statistics:
-| <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false" /></a> | <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=touhidcodes&theme=swift&hide_border=true&include_all_commits=false&count_private=false&layout=compact" /></a> |
-| ------------- | ------------- |
+---
 
-### Repository Stats & Streak:
-| <a><img align="center" src="https://github-contributor-stats.vercel.app/api?username=touhidcodes&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" /></a> | <a><img align="center" src="https://streak-stats.demolab.com/?user=touhidcodes" /></a> |
-| ------------- | ------------- |
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SR-JISAN&show_icons=true&theme=swift&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SR-JISAN&layout=compact&theme=swift&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak & Repository Stats
+
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=SR-JISAN&theme=swift&hide_border=true" />
+  <img height="170" src="https://github-contributor-stats.vercel.app/api?username=SR-JISAN&limit=5&theme=swift&combine_all_yearly_contributions=true&hide_border=true" />
+</p>
 
 <br/>
 
