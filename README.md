@@ -108,10 +108,9 @@
 
 # 🏆 GitHub Trophies
 
+
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SR-JISAN&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=SR-JISAN&theme=algolia&no-frame=true&row=2&column=4">
 </p>
 
 <br/>
