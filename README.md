@@ -76,9 +76,6 @@
   <img src="https://raw.githubusercontent.com/SR-JISAN/contribution-snake/output/grid.svg" alt="Snake Animation" />
 </p>
 
----
-
-## 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=SR-JISAN&show_icons=true&theme=swift&hide_border=true" />
