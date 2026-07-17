@@ -22,7 +22,7 @@
 - 🛠️ I’m currently learning **React Native, GraphQL, THREE.JS, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
 - 🌐 Explore My Portfolio **[SR-JISAN](https://portfolio-front-usdb.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/12XyIh9U2i49EHFkqnYEFZUlhEOiadhGU/view?usp=sharing)**
-- 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
+- 📝 I regularly write articles on **[LinkedIn](https://www.linkedin.com/in/md-jisan-a66834339)**
 - 📫 Feel free to reach me out **[Email](dev.md.jisan@gmail.com)**
   
 <br/>
