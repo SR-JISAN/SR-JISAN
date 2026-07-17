@@ -16,14 +16,14 @@
 <br/>
 
 <!--- about --->
-- 👋 Hi, I’m **[@touhidcodes](https://github.com/touhidcodes)**
+- 👋 Hi, I’m **[@SR-JISAN](https://github.com/SR-JISAN)**
 - 🖥️ I’m currently working on **React.js, Next.js, Typescript and Redux** for frontend development.
 - 🗄️ Using **Node.js, Express.js, MongoDB, Mongoose, PostgreSQL, and Prisma** for the backend.
-- 🛠️ I’m currently learning **React Native, GraphQL, Docker and AWS**.
+- 🛠️ I’m currently learning **React Native, GraphQL, THREE.JS, Docker and AWS**.
 - 💬 Ask me about **Full-Stack (React, Next, Node, Express, MongoDB, PostgreSQL)**.
-- 🌐 Explore My Portfolio **[TouhidCodes](https://touhidcodes.vercel.app/)** and My **[Resume](https://drive.google.com/uc?export=download&id=15hKPeWqITR4Sa_OncoDhpUdaNgnLJhBO)**
+- 🌐 Explore My Portfolio **[SR-JISAN](https://portfolio-front-usdb.vercel.app/)** and My **[Resume](https://drive.google.com/file/d/12XyIh9U2i49EHFkqnYEFZUlhEOiadhGU/view?usp=sharing)**
 - 📝 I regularly write articles on **[LinkedIn](https://linkedin.com/in/touhidur-zaman)**
-- 📫 Feel free to reach me out **[Email](touhidcodes@gmail.com)**
+- 📫 Feel free to reach me out **[Email](dev.md.jisan@gmail.com)**
   
 <br/>
 
