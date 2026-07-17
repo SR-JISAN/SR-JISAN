@@ -125,3 +125,8 @@
 <!--- visit count --->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SR-JISAN&label=Profile%20views&color=0e75b6&style=flat" alt="SR-JISAN" /> </p>
 
+### 💜 Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7F3FBF&height=120&section=footer"/>
+
+</p>
